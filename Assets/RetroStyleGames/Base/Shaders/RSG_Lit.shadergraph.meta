@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d7393aece742b974b8bd8606d7f02d17
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 406062
+  packageName: Lockheed P-38 Lightning WW2 Twin-Engine Fighter Airplane - Low Poly 3D Model
+  packageVersion: 1.0
+  assetPath: Assets/RetroStyleGames/Base/Shaders/RSG_Lit.shadergraph
+  uploadId: 1003880
